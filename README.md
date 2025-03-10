@@ -1,7 +1,8 @@
 # Pricing Analytics Dashboard
 # 📈 Fixed Income & Derivatives Pricing Dashboard
 
-🚀 **Live Demo**: [Click Here to Access the App]((https://pricing-analytics-dashboard-ef2gaszgcechj4fmvtv8qf.streamlit.app))
+
+🚀 **Live Demo**: [Click Here to Access the App](https://pricing-analytics-dashboard-ef2gaszgcechj4fmvtv8qf.streamlit.app)
 
 ## 📌 Overview
 This Streamlit-powered web app provides **real-time pricing analytics** for **fixed-income securities and derivatives**. It allows users to dynamically adjust bond yields, bond prices, and option strike prices to estimate **fair values** using statistical models.
